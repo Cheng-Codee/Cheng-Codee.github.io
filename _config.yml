@@ -63,13 +63,13 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: G-K0XB4XY1VG
+  clientID: bd65d5c0df878155b7fa
   clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
   repo: cheng-codee.github.io
   owner: cheng-codee
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics: 
+google_analytics: G-K0XB4XY1VG
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
